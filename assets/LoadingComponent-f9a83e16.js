@@ -1,0 +1,1 @@
+import{_ as o,g as e,i as s,j as c}from"./index-659768d0.js";const n={},t={class:"loading-section"},a=c("div",{class:"custom-loading-circle"},null,-1),_=[a];function i(r,d){return e(),s("div",t,_)}const m=o(n,[["render",i]]);export{m as L};
